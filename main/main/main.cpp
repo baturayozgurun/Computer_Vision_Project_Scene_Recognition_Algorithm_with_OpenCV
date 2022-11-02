@@ -3,7 +3,7 @@
 //  If you have any requests or questions please do not hesitate to contact me via baturay.ozgurun@gmail.com
 
 //  Project Name: Computer Vision Project -- Scene Recognition Algorithm with OpenCV
-//  Project Desciption: This project aims to perform an scene recognition technique capitalizing on the Bag of Visiual Words method. A small training dataset (street images) is utilized to create vocabulary and calculate histogram distributions. Scene recognition is performed by finding the correlation between the histogram distributions of training (with the referance image) and test images. This operation allows us to evaluate scene similarities. This code also provides a similarity matrix (evaluation of the scene recognition task) and vocabulary (generated using training dataset) in text files.
+//  Project Desciption: This project aims to perform a scene recognition technique capitalizing on the Bag of Visiual Words method. A small training dataset (street images) is utilized to create vocabulary and calculate histogram distributions. Scene recognition is performed by finding the correlation between the histogram distributions of training (with the referance image) and test images. This operation allows us to evaluate scene similarities. This code also provides a similarity matrix (evaluation of the scene recognition task) and vocabulary (generated using training dataset) in text files.
 
 
 //Include Headers
