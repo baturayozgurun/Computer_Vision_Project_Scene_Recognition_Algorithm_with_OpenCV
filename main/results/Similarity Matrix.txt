@@ -1,0 +1,2 @@
+The 1th (st,nd) Test Image is Very Similar as the Images in the Dataset.
+The 2th (st,nd) Test Image is Slightly OR Substantially Different from the Dataset Images.
